@@ -1,0 +1,366 @@
+body {
+    margin: 0px;
+}
+* {
+    font-family: Gill Sans;
+}
+h1 {
+    color: #181818;
+    font-size: 60px;
+}
+h2 {
+    color: #282828;
+    font-size: 33px
+}
+.titlee {
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, -50%);
+}
+.titlee2 {
+    position: absolute;
+    left: 49.8%;
+    top: 18%;
+    transform: translate(-50%, -50%);
+}
+.titleImage2 {
+    position: absolute;
+    top: 36px;
+    left: -1px;
+}
+.titleImage {
+    position: absolute;
+    top: 30px;
+    left: -7px;
+}
+.backgroundTitle {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.background {
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.boxLeft {
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.boxRight {
+    position: absolute;
+    top: 2700px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 990px;
+}
+.boxLeft2 {
+    position: absolute;
+    top: 3050px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 30px;
+}
+.boxRight2 {
+    position: absolute;
+    top: 3550px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 990px;
+}
+.boxLeft3 {
+    position: absolute;
+    top: 3850px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 30px;
+}
+.boxRight3 {
+    position: absolute;
+    top: 4480px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 990px;
+}
+.boxLeft4 {
+    position: absolute;
+    top: 4670px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 400px;
+    margin: 10px;
+    margin-left: 30px;
+}
+.WildcatsAttack {
+    margin-top: 5px;
+}
+.Romeo {
+    margin-top: 5px;
+}
+.HogTrials {
+    margin-top: 5px
+}
+.NewYears {
+    margin-top: 5px;
+}
+.grapes {
+    margin-top: 5px;
+}
+.final {
+    margin-top: 5px;
+}
+.boxTitle {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 15px;
+    padding-top: 10px;
+}
+.boxText {
+    font-size: 20px;
+    margin-left: 25px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+.boxImage1 {
+    margin-left: 52px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.boxImage3 {
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.boxImage4 {
+    margin-left: 102px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.boxImage5 {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.boxImage6 {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.boxImage7 {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.caption {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption2 {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 70px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption3 {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption4 {
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption5 {
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption6 {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.caption7 {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    margin-top: 2px;
+}
+.box {
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 1360px;
+    height: 290px;
+    margin: 10px;
+    margin-left: 30px;  
+}
+.box2 {
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 1360px;
+    height: 230px;
+    margin: 10px;
+    margin-left: 30px;  
+}
+.box3 {
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color:#FFFFFF;
+    width: 1360px;
+    height: 260px;
+    margin: 10px;
+    margin-left: 30px;  
+}
+.countTitle {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.count {
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.marg {
+    margin-top: 550px;
+}
+.marg2 {
+    margin-top: 4000px;
+}
+.marg3 {
+    margin-top: 35px;
+}
+.todayTitle {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.today {
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.dinnerImage {
+  margin-right: 30px;  
+  bottom: 100px;
+}
+.flexi {
+    display: flex;
+    flex-direction: row;
+}
+.timeline {
+    margin-left: 615px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    font-size: 100px;
+}
+.years {
+    margin-top: 250px;
+}
+.lineLeft {
+    position: absolute;
+    margin-top: 740px;
+    margin-left: 439px;
+}
+.lineRight {
+    position: absolute;
+    margin-top: 2810px;
+    margin-left: 840px;
+}
+.lineLeft2 {
+    position: absolute;
+    margin-top: 3180px;
+    margin-left: 439px;
+}
+.lineRight2 {
+    position: absolute;
+    margin-top: 3300px;
+    margin-left: 840px;
+}
+.lineLeft3 {
+    position: absolute;
+    margin-top: 3990px;
+    margin-left: 439px;
+}
+.lineRight3 {
+    position: absolute;
+    margin-top: 3990px;
+    margin-left: 840px;
+}
+.lineLeft4 {
+    position: absolute;
+    margin-top: 4150px;
+    margin-left: 439px;
+}
+.smallNum {
+    position: absolute;
+    margin-left: 655px;
+    padding-top: 720px;
+    font-size: 60px;
+}
+.smallNum2 {
+    position: absolute;
+    margin-left: 655px;
+    padding-top: 3278px;
+    font-size: 60px;
+}
+.smallNum3 {
+    position: absolute;
+    margin-left: 655px;
+    padding-top: 3968px;
+    font-size: 60px;
+}
+.smallNum4 {
+    position: absolute;
+    margin-left: 655px;
+    padding-top: 4130px;
+    font-size: 60px;
+}
